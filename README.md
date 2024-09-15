@@ -1,2 +1,3 @@
 # MammographyImagesClassification2024
-Mammography Image Classification with Python.
+Mammography Images BI-RADS Classification with Python.
+Class for Classification: BIRADS1, BIRADS2, BIRADS4, BIRADS5.
