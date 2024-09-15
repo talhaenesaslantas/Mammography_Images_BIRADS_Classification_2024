@@ -1,4 +1,5 @@
-Conclusion
+CONCLUSION
+
 In this study, we developed a deep learning-based model for the classification of mammographic images into BI-RADS1, BI-RADS2, BI-RADS4, and BI-RADS5 categories. The dataset consisted of DICOM-format mammographic images categorized as CC and MLO types, with varying pixel dimensions across images. Using a convolutional neural network (CNN) architecture, we sought to automate the classification of these images to assist in the diagnostic process for breast cancer screening and evaluation.
 
 The confusion matrix generated from the model's predictions demonstrates promising performance across the majority of the BI-RADS categories. The model achieved high accuracy in classifying BI-RADS1 and BI-RADS5 categories, as reflected in the correct classification of 928 and 504 instances, respectively. This indicates that the model is particularly effective in identifying cases with clear benign (BI-RADS1) and highly suspicious (BI-RADS5) findings, which are crucial for reducing false negatives and improving diagnostic precision.
